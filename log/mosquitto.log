@@ -1,0 +1,241 @@
+1708005766: mosquitto version 2.0.18 starting
+1708005766: Config loaded from /mosquitto/config/mosquitto.conf.
+1708005766: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708005766: Opening ipv4 listen socket on port 1883.
+1708005766: Opening ipv6 listen socket on port 1883.
+1708005766: mosquitto version 2.0.18 running
+1708005766: New connection from 172.100.10.12:58108 on port 1883.
+1708005766: New client connected from 172.100.10.12:58108 as auto-8C1812BF-DB40-A360-E811-32C6C1DDEDAC (p2, c1, k60, u'admin').
+1708005766: New connection from 172.100.10.11:59890 on port 1883.
+1708005766: New client connected from 172.100.10.11:59890 as auto-15E41D35-29DC-C15B-B740-C12B82843E8E (p2, c1, k60, u'admin').
+1708005766: Client auto-15E41D35-29DC-C15B-B740-C12B82843E8E disconnected.
+1708005799: Client auto-8C1812BF-DB40-A360-E811-32C6C1DDEDAC disconnected.
+1708005799: mosquitto version 2.0.18 terminating
+1708005799: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708005832: mosquitto version 2.0.18 starting
+1708005832: Config loaded from /mosquitto/config/mosquitto.conf.
+1708005832: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708005832: Opening ipv4 listen socket on port 1883.
+1708005832: Opening ipv6 listen socket on port 1883.
+1708005832: mosquitto version 2.0.18 running
+1708005832: New connection from 172.100.10.11:49380 on port 1883.
+1708005832: Client auto-7DC02286-DF16-5E7A-EFE2-51DE4E17E538 disconnected, not authorised.
+1708005832: New connection from 172.100.10.12:60316 on port 1883.
+1708005832: Client auto-B7FBD718-C9B2-A1C2-7E6E-5678407FC9B9 disconnected, not authorised.
+1708005836: New connection from 172.100.10.1:63254 on port 1883.
+1708005836: Client 73cc25e0-fa5c-5bd0-afa8-eccf7d7b0654 disconnected, not authorised.
+1708005842: mosquitto version 2.0.18 terminating
+1708005842: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708005845: mosquitto version 2.0.18 starting
+1708005845: Config loaded from /mosquitto/config/mosquitto.conf.
+1708005845: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708005845: Opening ipv4 listen socket on port 1883.
+1708005845: Opening ipv6 listen socket on port 1883.
+1708005845: mosquitto version 2.0.18 running
+1708005846: New connection from 172.100.10.12:48792 on port 1883.
+1708005846: New client connected from 172.100.10.12:48792 as auto-C773EF88-C570-61E7-94FB-DD07BDF05CAB (p2, c1, k60, u'admin').
+1708005846: New connection from 172.100.10.11:42082 on port 1883.
+1708005846: New client connected from 172.100.10.11:42082 as auto-6DD63ADA-73C9-AE22-9ED9-09CEEC8142DB (p2, c1, k60, u'admin').
+1708005846: Client auto-6DD63ADA-73C9-AE22-9ED9-09CEEC8142DB disconnected.
+1708005853: New connection from 172.100.10.1:58056 on port 1883.
+1708005853: New client connected from 172.100.10.1:58056 as 73cc25e0-fa5c-5bd0-afa8-eccf7d7b0654 (p2, c0, k60, u'admin').
+1708005853: Client 73cc25e0-fa5c-5bd0-afa8-eccf7d7b0654 closed its connection.
+1708005856: New connection from 172.100.10.1:62532 on port 1883.
+1708005857: New client connected from 172.100.10.1:62532 as FleetClient (p2, c1, k60, u'admin').
+1708005858: New connection from 172.100.10.1:62534 on port 1883.
+1708005858: New client connected from 172.100.10.1:62534 as d1c55084-c7da-503a-8721-2087b77be7d9 (p2, c0, k60, u'admin').
+1708005858: Client d1c55084-c7da-503a-8721-2087b77be7d9 closed its connection.
+1708005890: New connection from 172.100.10.1:61876 on port 1883.
+1708005890: New client connected from 172.100.10.1:61876 as 516942bd-3adb-5513-8e33-11e0d60443bb (p2, c0, k60, u'admin').
+1708005890: Client 516942bd-3adb-5513-8e33-11e0d60443bb closed its connection.
+1708005915: New connection from 172.100.10.1:65408 on port 1883.
+1708005915: New client connected from 172.100.10.1:65408 as 516942bd-3adb-5513-8e33-11e0d60443bb (p2, c0, k60, u'admin').
+1708005945: New connection from 172.100.10.1:60704 on port 1883.
+1708005945: New client connected from 172.100.10.1:60704 as e3b4f2b8-bcb5-5eb1-9312-af6ad0fabfc9 (p2, c0, k60, u'admin').
+1708005946: Client e3b4f2b8-bcb5-5eb1-9312-af6ad0fabfc9 closed its connection.
+1708005946: New connection from 172.100.10.1:57382 on port 1883.
+1708005946: New client connected from 172.100.10.1:57382 as 3e27880c-2bd8-534e-a8e4-298f98c6bad5 (p2, c0, k60, u'admin').
+1708005948: Client 516942bd-3adb-5513-8e33-11e0d60443bb closed its connection.
+1708005949: New connection from 172.100.10.1:57384 on port 1883.
+1708005949: New client connected from 172.100.10.1:57384 as e3b4f2b8-bcb5-5eb1-9312-af6ad0fabfc9 (p2, c0, k60, u'admin').
+1708005955: New connection from 172.100.10.1:57386 on port 1883.
+1708005955: New client connected from 172.100.10.1:57386 as f6ca2895-aac4-5287-b856-0861380a98bf (p2, c0, k60, u'admin').
+1708005956: Client 3e27880c-2bd8-534e-a8e4-298f98c6bad5 closed its connection.
+1708005962: Client f6ca2895-aac4-5287-b856-0861380a98bf closed its connection.
+1708005965: New connection from 172.100.10.1:64130 on port 1883.
+1708005965: New client connected from 172.100.10.1:64130 as f6ca2895-aac4-5287-b856-0861380a98bf (p2, c0, k60, u'admin').
+1708006090: Client f6ca2895-aac4-5287-b856-0861380a98bf closed its connection.
+1708006093: New connection from 172.100.10.1:58392 on port 1883.
+1708006093: New client connected from 172.100.10.1:58392 as f6ca2895-aac4-5287-b856-0861380a98bf (p2, c0, k60, u'admin').
+1708006103: Client FleetClient closed its connection.
+1708006375: Client f6ca2895-aac4-5287-b856-0861380a98bf closed its connection.
+1708006383: New connection from 172.100.10.1:59124 on port 1883.
+1708006383: New client connected from 172.100.10.1:59124 as a31190d9-f896-5165-b93e-6bfd3c8c7ab1 (p2, c0, k60, u'admin').
+1708006398: New connection from 172.100.10.1:65044 on port 1883.
+1708006398: New client connected from 172.100.10.1:65044 as FleetClient (p2, c1, k60, u'admin').
+1708006412: Client FleetClient closed its connection.
+1708006473: Client a31190d9-f896-5165-b93e-6bfd3c8c7ab1 closed its connection.
+1708006476: New connection from 172.100.10.1:65518 on port 1883.
+1708006476: New client connected from 172.100.10.1:65518 as a31190d9-f896-5165-b93e-6bfd3c8c7ab1 (p2, c0, k60, u'admin').
+1708006486: New connection from 172.100.10.1:57474 on port 1883.
+1708006486: New client connected from 172.100.10.1:57474 as FleetClient (p2, c1, k60, u'admin').
+1708006504: Client FleetClient closed its connection.
+1708006606: Client e3b4f2b8-bcb5-5eb1-9312-af6ad0fabfc9 has exceeded timeout, disconnecting.
+1708006619: New connection from 172.100.10.1:59396 on port 1883.
+1708006620: New client connected from 172.100.10.1:59396 as FleetClient (p2, c1, k60, u'admin').
+1708006631: New connection from 172.100.10.1:60950 on port 1883.
+1708006631: New client connected from 172.100.10.1:60950 as c20c7eb7-f339-5a05-a26c-30501f0a342e (p2, c0, k60, u'admin').
+1708006639: Client a31190d9-f896-5165-b93e-6bfd3c8c7ab1 closed its connection.
+1708006666: Client FleetClient closed its connection.
+1708007542: Client auto-C773EF88-C570-61E7-94FB-DD07BDF05CAB disconnected.
+1708007542: mosquitto version 2.0.18 terminating
+1708007542: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708007550: mosquitto version 2.0.18 starting
+1708007550: Config loaded from /mosquitto/config/mosquitto.conf.
+1708007550: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708007550: Opening ipv4 listen socket on port 1883.
+1708007550: Opening ipv6 listen socket on port 1883.
+1708007550: mosquitto version 2.0.18 running
+1708007551: New connection from 172.100.10.12:40660 on port 1883.
+1708007551: New client connected from 172.100.10.12:40660 as auto-5D45B5EA-DA1C-3D91-6365-6029531DE5DD (p2, c1, k60, u'admin').
+1708007551: New connection from 172.100.10.11:47578 on port 1883.
+1708007551: New client connected from 172.100.10.11:47578 as auto-806DD273-3700-DE73-8480-23D8103721D2 (p2, c1, k60, u'admin').
+1708007551: Client auto-806DD273-3700-DE73-8480-23D8103721D2 disconnected.
+1708007553: New connection from 172.100.10.1:64430 on port 1883.
+1708007553: New client connected from 172.100.10.1:64430 as c20c7eb7-f339-5a05-a26c-30501f0a342e (p2, c0, k60, u'admin').
+1708007694: New connection from 172.100.10.1:57420 on port 1883.
+1708007694: New client connected from 172.100.10.1:57420 as FleetClient (p2, c1, k60, u'admin').
+1708007700: Client FleetClient closed its connection.
+1708008027: Client auto-5D45B5EA-DA1C-3D91-6365-6029531DE5DD disconnected.
+1708008027: mosquitto version 2.0.18 terminating
+1708008027: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708008990: mosquitto version 2.0.18 starting
+1708008990: Config loaded from /mosquitto/config/mosquitto.conf.
+1708008990: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708008990: Opening ipv4 listen socket on port 1883.
+1708008990: Opening ipv6 listen socket on port 1883.
+1708008990: mosquitto version 2.0.18 running
+1708008990: New connection from 172.100.10.11:48978 on port 1883.
+1708008990: New client connected from 172.100.10.11:48978 as auto-9C929302-416D-966C-3D8B-C9EFE8815758 (p2, c1, k60, u'admin').
+1708008990: Client auto-9C929302-416D-966C-3D8B-C9EFE8815758 disconnected.
+1708008990: New connection from 172.100.10.12:42136 on port 1883.
+1708008990: New client connected from 172.100.10.12:42136 as auto-CA4452D7-5CEC-F087-8497-C86AFF10C9D8 (p2, c1, k60, u'admin').
+1708009004: New connection from 172.100.10.1:58944 on port 1883.
+1708009004: New client connected from 172.100.10.1:58944 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708009550: Client auto-CA4452D7-5CEC-F087-8497-C86AFF10C9D8 disconnected.
+1708009550: mosquitto version 2.0.18 terminating
+1708009550: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708009553: mosquitto version 2.0.18 starting
+1708009553: Config loaded from /mosquitto/config/mosquitto.conf.
+1708009553: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708009553: Opening ipv4 listen socket on port 1883.
+1708009553: Opening ipv6 listen socket on port 1883.
+1708009553: mosquitto version 2.0.18 running
+1708009553: New connection from 172.100.10.12:60010 on port 1883.
+1708009553: Client auto-B845997C-92FB-1939-F25D-4D91D52423E9 disconnected, not authorised.
+1708009553: New connection from 172.100.10.11:52292 on port 1883.
+1708009553: Client auto-7F90CA8D-0B7B-5DDD-5573-E075A4B17944 disconnected, not authorised.
+1708009554: New connection from 172.100.10.1:58454 on port 1883.
+1708009554: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f disconnected, not authorised.
+1708009555: mosquitto version 2.0.18 terminating
+1708009555: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708020580: mosquitto version 2.0.18 starting
+1708020580: Config loaded from /mosquitto/config/mosquitto.conf.
+1708020580: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708020580: Opening ipv4 listen socket on port 1883.
+1708020580: Opening ipv6 listen socket on port 1883.
+1708020580: mosquitto version 2.0.18 running
+1708020581: New connection from 172.100.10.12:47114 on port 1883.
+1708020581: New client connected from 172.100.10.12:47114 as auto-D8BD5197-2307-E8A5-3D16-9BD64AF87BE7 (p2, c1, k60, u'admin').
+1708020581: New connection from 172.100.10.11:56870 on port 1883.
+1708020581: New client connected from 172.100.10.11:56870 as auto-7A8FE7FC-1046-6B64-D2BF-0F1C68DF4E5F (p2, c1, k60, u'admin').
+1708020581: Client auto-7A8FE7FC-1046-6B64-D2BF-0F1C68DF4E5F disconnected.
+1708020644: Client auto-D8BD5197-2307-E8A5-3D16-9BD64AF87BE7 disconnected.
+1708020644: mosquitto version 2.0.18 terminating
+1708020644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708020672: mosquitto version 2.0.18 starting
+1708020672: Config loaded from /mosquitto/config/mosquitto.conf.
+1708020672: Warning: File /mosquitto/config/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwd`.
+1708020672: Opening ipv4 listen socket on port 1883.
+1708020672: Opening ipv6 listen socket on port 1883.
+1708020672: mosquitto version 2.0.18 running
+1708020672: New connection from 172.100.10.12:52636 on port 1883.
+1708020672: New client connected from 172.100.10.12:52636 as auto-91E73443-BF33-53B7-0270-C077302B518C (p2, c1, k60, u'admin').
+1708020672: New connection from 172.100.10.11:52766 on port 1883.
+1708020672: New client connected from 172.100.10.11:52766 as auto-2602982D-FC2A-4DAF-31BB-177C890F0A43 (p2, c1, k60, u'admin').
+1708020672: Client auto-2602982D-FC2A-4DAF-31BB-177C890F0A43 disconnected.
+1708021937: New connection from 172.100.10.1:62840 on port 1883.
+1708021937: New client connected from 172.100.10.1:62840 as FleetClient (p2, c1, k60, u'admin').
+1708021978: New connection from 172.100.10.1:59416 on port 1883.
+1708021978: New client connected from 172.100.10.1:59416 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708021978: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708021989: New connection from 172.100.10.1:55022 on port 1883.
+1708021989: New client connected from 172.100.10.1:55022 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708021989: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022071: New connection from 172.100.10.1:57436 on port 1883.
+1708022071: New client connected from 172.100.10.1:57436 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022471: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708022508: Client FleetClient closed its connection.
+1708022529: New connection from 172.100.10.1:62956 on port 1883.
+1708022530: New client connected from 172.100.10.1:62956 as FleetClient (p2, c1, k60, u'admin').
+1708022596: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022599: New connection from 172.100.10.1:58476 on port 1883.
+1708022599: New client connected from 172.100.10.1:58476 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022599: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022601: Client FleetClient closed its connection.
+1708022627: New connection from 172.100.10.1:62012 on port 1883.
+1708022627: New client connected from 172.100.10.1:62012 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022697: New connection from 172.100.10.1:60318 on port 1883.
+1708022697: New client connected from 172.100.10.1:60318 as FleetClient (p2, c1, k60, u'admin').
+1708022728: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022731: New connection from 172.100.10.1:62508 on port 1883.
+1708022731: New client connected from 172.100.10.1:62508 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022731: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022801: New connection from 172.100.10.1:60012 on port 1883.
+1708022801: New client connected from 172.100.10.1:60012 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022904: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022906: New connection from 172.100.10.1:57986 on port 1883.
+1708022906: New client connected from 172.100.10.1:57986 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022907: Client 536e0ae7-27ff-57a3-9733-a93ac00f4b2f closed its connection.
+1708022907: Client FleetClient closed its connection.
+1708022923: New connection from 172.100.10.1:62336 on port 1883.
+1708022923: New connection from 172.100.10.1:62338 on port 1883.
+1708022923: New client connected from 172.100.10.1:62338 as 536e0ae7-27ff-57a3-9733-a93ac00f4b2f (p2, c0, k60, u'admin').
+1708022923: New client connected from 172.100.10.1:62336 as FleetClient (p2, c1, k60, u'admin').
+1708023089: Client FleetClient closed its connection.
+1708023099: New connection from 172.100.10.1:63136 on port 1883.
+1708023099: New client connected from 172.100.10.1:63136 as FleetClient (p2, c1, k60, u'admin').
+1708023166: Client FleetClient closed its connection.
+1708023175: New connection from 172.100.10.1:64426 on port 1883.
+1708023176: New client connected from 172.100.10.1:64426 as FleetClient (p2, c1, k60, u'admin').
+1708023190: Client FleetClient closed its connection.
+1708023201: New connection from 172.100.10.1:59010 on port 1883.
+1708023201: New client connected from 172.100.10.1:59010 as FleetClient (p2, c1, k60, u'admin').
+1708023230: Client FleetClient closed its connection.
+1708023238: New connection from 172.100.10.1:56696 on port 1883.
+1708023238: New client connected from 172.100.10.1:56696 as FleetClient (p2, c1, k60, u'admin').
+1708023390: Client FleetClient closed its connection.
+1708023514: New connection from 172.100.10.1:64382 on port 1883.
+1708023514: New client connected from 172.100.10.1:64382 as FleetClient (p2, c1, k60, u'admin').
+1708023514: Client FleetClient closed its connection.
+1708023515: New connection from 172.100.10.1:64384 on port 1883.
+1708023515: New client connected from 172.100.10.1:64384 as FleetClient (p2, c1, k60, u'admin').
+1708023676: Client FleetClient closed its connection.
+1708023688: New connection from 172.100.10.1:63950 on port 1883.
+1708023688: New client connected from 172.100.10.1:63950 as FleetClient (p2, c1, k60, u'admin').
+1708023874: Client FleetClient closed its connection.
+1708023887: New connection from 172.100.10.1:58352 on port 1883.
+1708023887: New client connected from 172.100.10.1:58352 as FleetClient (p2, c1, k60, u'admin').
+1708024270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1708024281: Client FleetClient closed its connection.
+1708024295: Client auto-91E73443-BF33-53B7-0270-C077302B518C disconnected.
+1708024296: mosquitto version 2.0.18 terminating
+1708024296: Saving in-memory database to /mosquitto/data//mosquitto.db.

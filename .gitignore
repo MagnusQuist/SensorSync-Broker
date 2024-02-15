@@ -1,2 +1,2 @@
 config/passwd
-log/*
+!log/*
